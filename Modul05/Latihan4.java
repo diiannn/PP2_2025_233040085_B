@@ -12,7 +12,7 @@ import javax.swing.*;
  * @author astri
  */
 public class Latihan4 {
-            public static void main(String[] args) {
+     public static void main(String[] args) {
        SwingUtilities.invokeLater(new Runnable(){
            public void run() {
                JFrame frame = new JFrame ("Contoh BorderLayout");
