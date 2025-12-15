@@ -81,7 +81,7 @@ public class PersegiPanjangView extends JFrame {
     public void addHitungKelilingListener(ActionListener listener) {
         btnHitungKeliling.addActionListener(listener);
     }
-    //LATIHAN 3
+    //LATIHAN 3 
     public void addResetListener(ActionListener listener) {
         btnReset.addActionListener(listener);
     }
